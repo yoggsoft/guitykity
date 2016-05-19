@@ -1,0 +1,24 @@
+{
+  "name": "guitykity",
+  "version": "1.0.0",
+  "description": "Custom financial tracking tool",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yoggsoft/guitykity.git"
+  },
+  "author": "Manuel Reyes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yoggsoft/guitykity/issues"
+  },
+  "homepage": "https://github.com/yoggsoft/guitykity#readme",
+  "devDependencies": {
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "polymer": "^0.5.0"
+  }
+}
